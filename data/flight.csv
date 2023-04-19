@@ -1,0 +1,175 @@
+PassengerId,Name,Sex,Age,Ticket,Seat
+949,Abelseth Mr. Olaus Jorgensen,male,25,348122,B54
+900,Abrahim Mrs. Joseph (Sophie Halaut Easu),female,18,2657,A34
+970,Aldworth Mr. Charles Augustus,male,30,248744,C46
+1046,Asplund Master. Filip Oscar,male,13,347077,L35
+911,Assaf Khalil Mrs. Mariana (Miriam),female,45,2696,A45
+909,Assaf Mr. Gerios,male,21,2692,A43
+979,Badman Miss. Emily Louisa,female,18,A/4 31416,J11
+978,Barry Miss. Julia,female,27,330844,C54
+1010,Beattie Mr. Thomson,male,36,13050,K13
+1035,Beauchamp Mr. Henry James,male,28,244358,K53
+1048,Bird Miss. Ellen,female,29,PC 17483,L37
+986,Birnbaum Mr. Jakob,male,25,13905,J33
+954,Bjorklund Mr. Ernst Herbert,male,18,347090,C15
+1050,Borebank Mr. John James,male,42,110489,L39
+972,Boulos Master. Akar,male,6,2678,C48
+1020,Bowenur Mr. Solomon,male,42,211535,K38
+955,Bradley Miss. Bridget Delia,female,22,334914,C31
+920,Brady Mr. John Bertram,male,41,113054,A54
+990,Braf Miss. Elin Ester Maria,female,20,347471,J37
+1058,Brandeis Mr. Emil,male,48,PC 17591,L47
+1018,Brobeck Mr. Karl Rudolf,male,22,350045,K36
+1005,Buckley Miss. Katherine,female,19,329944,J52
+998,Buckley Mr. Daniel,male,21,330920,J45
+940,Bucknell Mrs. William Robert (Emma Eliza Ward),female,60,11813,B45
+958,Burns Miss. Mary Delia,female,18,330963,C34
+929,Cacic Miss. Manda,female,21,315087,B34
+899,Caldwell Mr. Albert Francis,male,26,248738,A33
+1027,Carlsson Mr. Carl Robert,male,24,350409,K45
+1015,Carver Mr. Alfred John,male,28,392095,K33
+974,Case Mr. Howard Brown,male,49,19924,C50
+1060,Cassebeer Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick),female,35,17770,L49
+988,Cavendish Mrs. Tyrell William (Julia Florence Siegel),female,76,19877,J35
+906,Chaffee Mrs. Herbert Fuller (Carrie Constance Toogood),female,47,W.E.P. 5734,A40
+1011,Chapman Mrs. John Henry (Sara Elizabeth Lawry),female,29,SC/AH 29037,K14
+951,Chaudanson Miss. Victorine,female,36,PC 17608,C12
+938,Chevre Mr. Paul Romaine,male,45,PC 17594,B43
+1007,Chronopoulos Mr. Demetrios,male,18,2680,J54
+898,Connolly Miss. Kate,female,30,330972,A32
+948,Cor Mr. Bartol,male,35,349230,B53
+935,Corbett Mrs. Walter H (Irene Colvin),female,30,237249,B40
+957,Corey Mrs. Percy C (Mary Phyllis Elizabeth Miller),female,35,F.C.C. 13534,C33
+969,Cornell Mrs. Robert Clifford (Malvina Helen Lamson),female,55,11770,C45
+941,Coutts Mrs. William (Winnie Minnie Treanor),female,36,C.A. 37671,B46
+1040,Crafton Mr. John Bertram,male,35,113791,L14
+1017,Cribb Miss. Laura Alice,female,17,371362,K35
+919,Daher Mr. Shedid,male,23,2698,A53
+1033,Daniels Miss. Sarah,female,33,113781,K51
+984,Davidson Mrs. Thornton (Orian Hays),female,27,F.C. 12750,J31
+1039,Davies Mr. Evan,male,22,SC/A4 23568,L13
+901,Davies Mr. John Samuel,male,21,A/4 48871,A35
+950,Davison Mr. Thomas Henry,male,35,386525,C11
+924,Dean Mrs. Bertram (Eva Georgetta Light),female,33,C.A. 2315,B14
+907,del Carlo Mrs. Sebastiano (Argenia Genovesi),female,24,SC/PARIS 2167,A41
+975,Demetri Mr. Marinko,male,35,349238,C51
+952,Dika Mr. Mirko,male,17,349232,C13
+1026,Dintcheff Mr. Valtcho,male,43,349226,K44
+971,Doyle Miss. Elizabeth,female,24,368702,C47
+1030,Drapkin Miss. Jennie,female,23,SOTON/OQ 392083,K48
+1047,Duquemin Mr. Joseph,male,24,S.O./P.P. 752,L36
+1064,Dyker Mr. Adolf Fredrik,male,23,347072,L53
+982,Dyker Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson),female,22,347072,J14
+1042,Earnshaw Mrs. Boulton (Olive Potter),female,23,11767,L31
+1004,Evans Miss. Edith Corse,female,36,PC 17531,J51
+914,Flegenheim Mrs. Alfred (Antoinette),female,35,PC 17598,A48
+994,Foley Mr. William,male,35,365235,J41
+1059,Ford Mr. Edward Watson,male,18,W./C. 6608,L48
+945,Fortune Miss. Ethel Flora,female,28,19950,B50
+961,Fortune Mrs. Mark (Mary McDougald),female,60,19950,C37
+933,Franklin Mr. Thomas Parham,male,35,113778,B38
+966,Geiger Miss. Amalie,female,35,113503,C42
+934,Goldsmith Mr. Nathan,male,41,SOTON/O.Q. 3101263,B39
+1032,Goodwin Miss. Jessie Allis,female,10,CA 2144,K50
+1031,Goodwin Mr. Charles Frederick,male,40,CA 2144,K49
+1023,Gracie Col. Archibald IV,male,53,113780,K41
+985,Guest Mr. Robert,male,35,376563,J32
+931,Hee Mr. Ling,male,35,1601,B36
+1061,Hellstrom Miss. Hilda Maria,female,22,7548,L50
+1038,Hilliard Mr. Herbert Henry,male,35,17463,L12
+896,Hirvonen Mrs. Alexander (Helga E Lindqvist),female,22,3101298,A15
+944,Hocking Miss. Ellen Nellie,female,20,29105,B49
+997,Holthen Mr. Johan Martin,male,28,C 4001,J44
+905,Howard Mr. Benjamin,male,63,24065,A39
+902,Ilieff Mr. Ylio,male,21,349220,A36
+910,Ilmakangas Miss. Ida Livija,female,27,STON/O2. 3101270,A44
+923,Jefferys Mr. Clifford Thomas,male,24,C.A. 31029,B13
+995,Johansson Palmquist Mr. Oskar Leander,male,26,347070,J42
+925,Johnston Mrs. Andrew G (Elizabeth Lily Watson),female,35,W./C. 6607,B15
+903,Jones Mr. Charles Cresson,male,46,694,A37
+932,Karun Mr. Franz,male,39,349256,B37
+927,Katavelas Mr. Vassilios (Catavelas Vassilios),male,19,2682,B32
+908,Keane Mr. Daniel,male,35,233734,A42
+967,Keeping Mr. Edwin,male,33,113503,C43
+892,Kelly Mr. James,male,34,330911,A11
+1016,Kennedy Mr. John,male,35,368783,K34
+977,Khalil Mr. Betros,male,35,2660,C53
+1013,Kiernan Mr. John,male,35,367227,K31
+936,Kimball Mrs. Edwin Nelson Jr (Gertrude Parsons),female,45,11753,B41
+1057,Kink-Heilmann Mrs. Anton (Luise Heilmann),female,26,315153,L46
+1045,Klasen Mrs. (Hulda Kristina Eugenia Lofqvist),female,36,350405,L34
+1041,Lahtinen Rev. William,male,30,250651,L15
+976,Lamb Mr. John Joseph,male,35,240261,C52
+1024,Lefebre Mrs. Frank (Frances),female,35,4133,K42
+1036,Lindeberg-Lind Mr. Erik Gustaf (Mr Edward Lingrey),male,42,17475,K54
+1062,Lithman Mr. Simon,male,35,S.O./P.P. 251,L51
+922,Louch Mr. Charles Alexander,male,50,SC/AH 3085,B12
+1049,Lundin Miss. Olga Elida,female,23,347469,L38
+989,Makinen Mr. Kalle Edvard,male,29,STON/O 2. 3101268,J36
+946,Mangiavacchi Mr. Serafino Emilio,male,35,SC/A.3 2861,B51
+1043,Matinoff Mr. Nicola,male,35,349255,L32
+1019,McCoy Miss. Alicia,female,35,367226,K37
+953,McCrae Mr. Arthur Gordon,male,32,237216,C14
+968,Miles Mr. Frank,male,35,359306,C44
+963,Minkoff Mr. Lazar,male,21,349211,C39
+926,Mock Mr. Philipp Edmund,male,30,13236,B31
+959,Moore Mr. Clarence Bloomfield,male,47,113796,C35
+962,Mulvihill Miss. Bertha E,female,24,382653,C38
+894,Myles Mr. Thomas Francis,male,62,240276,A13
+991,Nancarrow Mr. William Henry,male,33,A./5. 3338,J38
+964,Nieminen Miss. Manta Josefina,female,29,3101297,C40
+980,O'Donoghue Ms. Bridget,female,35,364856,J12
+913,Olsen Master. Artur Karl,male,9,C 17368,A47
+918,Ostby Miss. Helene Ragnhild,female,22,113509,A52
+965,Ovies y Rodriguez Mr. Servando,male,29,PC 17562,C41
+1051,Peacock Mrs. Benjamin (Edith Nile),female,26,SOTON/O.Q. 3101315,L40
+1055,Pearce Mr. Ernest,male,35,343271,L44
+983,Pedersen Mr. Olaf,male,35,345498,J15
+937,Peltomaki Mr. Nikolai Johannes,male,25,STON/O 2. 3101291,B42
+1056,Peruschitz Rev. Joseph Maria,male,41,237393,L45
+1021,Petersen Mr. Marius,male,24,342441,K39
+943,Pulbaum Mr. Franz,male,27,SC/PARIS 2168,B48
+947,Rice Master. Albert,male,10,382652,B52
+917,Robins Mr. Alexander A,male,50,A/5. 3337,A51
+928,Roth Miss. Sarah A,female,35,342712,B33
+912,Rothschild Mr. Martin,male,55,PC 17603,A46
+999,Ryan Mr. Edward,male,35,383162,J46
+956,Ryerson Master. John Borie,male,13,PC 17608,C32
+1034,Ryerson Mr. Arthur Larned,male,61,PC 17608,K52
+916,Ryerson Mrs. Arthur Larned (Emily Maria Borie),female,48,PC 17608,A50
+921,Samaan Mr. Elias,male,35,2662,B11
+1009,Sandstrom Miss. Beatrice Irene,female,1,PP 9549,K12
+930,Sap Mr. Julius,male,25,345768,B35
+1014,Schabert Mrs. Paul (Emma Mock),female,35,13236,K32
+1029,Schmidt Mr. August,male,26,248659,K47
+939,Shaughnessy Mr. Patrick,male,35,370374,B44
+1003,Shine Miss. Ellen Natalia,female,35,330968,J50
+942,Smith Mr. Lucien Philip,male,24,13695,B47
+1052,Smyth Miss. Julia,female,35,335432,L41
+904,Snyder Mrs. John Pillsbury (Nelle Stevenson),female,23,21228,A38
+1022,Spinner Mr. Henry John,male,32,STON/OQ. 369943,K40
+1002,Stanton Mr. Samuel Ward,male,41,237734,J49
+992,Stengel Mrs. Charles Emil Henry (Annie May Morris),female,43,11778,J39
+1044,Storey Mr. Thomas,male,61,3701,L33
+973,Straus Mr. Isidor,male,67,PC 17483,C49
+1006,Straus Mrs. Isidor (Rosalie Ida Blun),female,63,PC 17483,J53
+897,Svensson Mr. Johan Cervin,male,14,7538,A31
+1001,Swane Mr. George,male,19,248734,J48
+987,Tenglin Mr. Gunnar Isidor,male,25,350033,J34
+1025,Thomas Mr. Charles P,male,35,2621,K43
+1008,Thomas Mr. John,male,35,2681,K11
+996,Thomas Mrs. Alexander (Thamine Thelma),female,16,2625,J43
+1065,Torfa Mr. Assad,male,35,2673,L54
+1053,Touma Master. Georges Youssef,male,7,2650,L42
+960,Tucker Mr. Gilbert Milligan Jr,male,31,2543,C36
+1037,Vander Planke Mr. Julius,male,31,345763,L11
+1012,Watt Miss. Bertha J,female,12,C.A. 33595,K15
+993,Weisz Mr. Leopold,male,27,228414,J40
+981,Wells Master. Ralph Lester,male,2,29103,J13
+893,Wilkes Mrs. James (Ellen Needs),female,47,363272,A12
+1000,Willer Mr. Aaron (Abi Weller),male,35,3410,J47
+915,Williams Mr. Richard Norris II,male,21,PC 17597,A49
+895,Wirz Mr. Albert,male,27,315154,A14
+1054,Wright Miss. Marion,female,26,220844,L43
+1028,Zakarian Mr. Mapriededer,male,27,2656,K46
+1063,Zakarian Mr. Ortin,male,27,2670,L52
